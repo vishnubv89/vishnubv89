@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishnubv89
-- 👀 I’m interested in observability and technology
+- 👀 I’m interested in observability, technology and AI
 - 🌱 I’m currently learning anything related to technology and trends
 - 💞️ I’m looking to collaborate on making technology simple and effective
 - 😄 Pronouns: He/Him/His
